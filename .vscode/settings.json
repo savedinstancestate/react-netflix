@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.enableImages": true,
+    "terminal.integrated.defaultProfile.osx": "zsh",
+    "terminal.explorerKind": "integrated",
+    "terminal.sourceControlRepositoriesKind": "integrated"
+}
