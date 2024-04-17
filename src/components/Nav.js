@@ -30,7 +30,7 @@ const handleChange = (e) => {
     <nav className={`nav ${show && "nav__black"}`}>
       <img
         alt="Netflix logo"
-        src="https://i.namu.wiki/i/v6U8XFatJ1nuPvDI7VLve-U2wKIbsiwlvM0f42qa5m1nCxwlz6c6bMygUTYPnPbyWS6Rai9TD7PAvWFJr1yEsg.svg"
+        src="https://about.netflix.com/images/logo.png"
         className="nav__logo"
         onClick={() => window.location.reload()}
       />

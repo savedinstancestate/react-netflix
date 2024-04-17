@@ -16,8 +16,8 @@
 }
 .nav__logo {
     position: fixed;
-    left: 40px;
-    width: 80px;
+    left: 30px;
+    width: 120px;
     object-fit: contain;
 }
 .nav__avatar {
